@@ -1,0 +1,1 @@
+export { DexByAnima } from "./DexByAnima";
